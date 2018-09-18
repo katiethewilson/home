@@ -1,0 +1,40 @@
+/* CSS files add styling rules to your content */
+
+
+* { box-sizing: border-box; }
+html { background-color: #fff; margin: 0; padding: 0; border: 10px solid #2A1E5C; font-size: 1.25em; }
+body { margin: 0 auto; padding: 4em 2em; width: 100%; max-width: 1000px; font-family: Menlo, Consolas, Monaco, 'Lucida Console', monospace; font-size: 1em; }
+a { color: #2A1E5C; text-decoration: underline; }
+section { margin: 4em 0; }
+footer { font-size: .8em; margin: 4em 0 0; text-align: right; }
+p { line-height: 1.5em; }
+
+.float-left { float: left; margin: auto 1em 1em auto; }
+.full-width { width: 100%; }
+
+.img1 {
+    float: right;
+    max-width: 500px
+}
+
+.clearfix {
+    overflow: auto;
+}
+
+.socialmedia {
+    font-style: normal;
+    color: #202C39;
+}
+
+.footer {
+    position: ;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: white;
+    color: #131516;
+    font-family: "Benton Sans", sans-serif;
+    font-size: 12px;
+    text-align: center;
+}
+
