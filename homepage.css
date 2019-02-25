@@ -1,6 +1,6 @@
 * { box-sizing: border-box; }
 html { background-color: #fff; margin: 0; padding: 0; border: 10px solid #2A1E5C; font-size: 1.25em; }
-body { margin: 0 auto; padding: 4em 2em; width: 100%; max-width: 1000px; font-family: Menlo, Consolas, Monaco, 'Lucida Console', monospace; font-size: 1em; }
+body { margin: 0 auto; padding: 4em 2em; width: 100%; max-width: 1000px; font-family: Roboto Slab, serif; font-size: 1em; }
 a { color: #2A1E5C; text-decoration: underline; }
 section { margin: 4em 0; }
 footer { font-size: .8em; margin: 4em 0 0; text-align: right; }
